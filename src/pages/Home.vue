@@ -53,7 +53,7 @@ const previews = [
     to: { name: 'muestras' },
   },
   {
-    title: 'Profesora Moni',
+    title: 'Profesora',
     description: 'Trayectoria, mirada pedagógica y acompañamiento en el taller.',
     image: 'https://picsum.photos/seed/profesora/800/500',
     to: { name: 'profesora' },

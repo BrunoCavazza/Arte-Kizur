@@ -82,7 +82,7 @@ const links = [
   { name: 'home', to: '/', label: 'Inicio' },
   { name: 'obras', to: '/obras', label: 'Obras' },
   { name: 'muestras', to: '/muestras', label: 'Muestras' },
-  { name: 'profesora', to: '/profesora', label: 'Profesora Moni' },
+  { name: 'profesora', to: '/profesora', label: 'Profesora' },
   { name: 'alumnos', to: '/alumnos', label: 'Alumnos' },
   { name: 'egresados', to: '/egresados', label: 'Egresados' },
   { name: 'inscripciones', to: '/inscripciones', label: 'Inscripciones' },

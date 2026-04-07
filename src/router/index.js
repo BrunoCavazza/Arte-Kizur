@@ -28,7 +28,7 @@ const routes = [
         path: 'profesora',
         name: 'profesora',
         component: () => import('pages/Profesora.vue'),
-        meta: { title: 'Profesora Moni' },
+        meta: { title: 'Profesora' },
       },
       {
         path: 'alumnos',

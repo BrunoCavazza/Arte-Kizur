@@ -1,7 +1,7 @@
 <template>
   <q-page class="page-shell page-below-header bg-transparent q-px-md q-pb-md">
     <div class="page-shell__inner">
-      <h1 class="page-title">Profesora Moni</h1>
+      <h1 class="page-title">Profesora</h1>
       <p class="page-lead">
         Biografía, enfoque docente y la mirada que guía las prácticas en el taller.
       </p>
