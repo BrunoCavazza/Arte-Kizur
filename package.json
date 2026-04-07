@@ -1,0 +1,34 @@
+{
+  "name": "arte-kizur",
+  "version": "1.0.0",
+  "description": "Academia de Artes Visuales — Arte Kizur",
+  "productName": "Arte Kizur",
+  "author": "",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lottiefiles/dotlottie-vue": "^0.11.10",
+    "@quasar/extras": "^1.16.9",
+    "chroma-js": "^2.4.2",
+    "quasar": "^2.16.0",
+    "three": "^0.161.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "2.4.1",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "sass": "^1.71.1",
+    "vite": "^5.1.5"
+  },
+  "engines": {
+    "node": ">= 18",
+    "npm": ">= 9"
+  }
+}
